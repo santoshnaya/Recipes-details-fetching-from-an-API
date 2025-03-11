@@ -1,3 +1,4 @@
+![image alt](https://github.com/santoshnaya/Recipes-details-fetching-from-an-API/blob/bf46c6d039849dcb6bff3d8c2f1e2f04a229df44/10.png)
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
@@ -10,4 +11,4 @@ npm run dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-![image alt](https://github.com/santoshnaya/Recipes-details-fetching-from-an-API/blob/bf46c6d039849dcb6bff3d8c2f1e2f04a229df44/10.png)
+
